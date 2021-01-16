@@ -1,0 +1,11 @@
+.button {
+  align-items: center;
+  background-color: aqua;
+  font-size: large;
+  margin: 10px;
+  width: 100px;
+}
+
+.button:hover {
+  background-color: #fff;
+}
